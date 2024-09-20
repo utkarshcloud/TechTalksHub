@@ -52,6 +52,12 @@ Join this session as I demonstrate how Amazon Transcribe provides you with an ac
 
   ![1637917521776](https://github.com/user-attachments/assets/10c14493-40b7-4e7a-9ad1-129fb381670c)
 
+- **Mastering the Cloud and Infrastructure Security**  
+  _Event: AWS Startup_
+
+  online session, **"Mastering the Cloud and Infrastructure Security"**, where we will explore essential strategies and best practices to securing your cloud infrastructure on AWS.
+  
+  https://aws.amazon.com/startups/events/mastering-the-cloud-and-infrastructure-security
   
 ![image](https://github.com/user-attachments/assets/7a57628a-3c60-4c41-8a6c-e5cab47c94f5)
 
