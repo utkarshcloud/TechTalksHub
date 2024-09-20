@@ -37,7 +37,22 @@ Join this session as I demonstrate how Amazon Transcribe provides you with an ac
   
 ![BET305_Utkarsh Pandey   Ved Antani](https://github.com/user-attachments/assets/42e9fd0a-3782-43fa-8199-0756c380884a)
 
+- **Building Web 3.0 Applications on AWS**  
+  _Event: Decrypt Builders Day_
+  
+![1661927903644](https://github.com/user-attachments/assets/42f007fe-7616-47d3-817e-66964875022d)
 
+- **Building in Web 3.0**  
+  _Event: TIE- India Internet Day_
+
+![1660657590904](https://github.com/user-attachments/assets/25443de7-af7a-40c4-9a3e-cabe5953aaee)
+
+- **Security with AWS**  
+  _Event: Fintech Forum_
+
+  ![1637917521776](https://github.com/user-attachments/assets/10c14493-40b7-4e7a-9ad1-129fb381670c)
+
+  
 ![image](https://github.com/user-attachments/assets/7a57628a-3c60-4c41-8a6c-e5cab47c94f5)
 
 ![image](https://github.com/user-attachments/assets/7340e6c8-1e31-4966-b637-aefab7b65f18)
